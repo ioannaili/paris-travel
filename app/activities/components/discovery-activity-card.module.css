@@ -1,0 +1,67 @@
+.card {
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  color: #2b1640;
+  display: grid;
+  gap: 8px;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2b1640;
+}
+
+.meta {
+  margin: 0;
+  font-size: 14px;
+  color: #2b1640;
+  opacity: 0.9;
+}
+
+.description {
+  margin: 0;
+  font-size: 14px;
+  color: #1a1a1a;
+  line-height: 1.45;
+}
+
+.actions {
+  margin-top: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.button {
+  min-height: 48px;
+  border-radius: 9999px;
+  border: 0;
+  padding: 0 16px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.mapsButton {
+  background: #ffffff;
+  color: #2b1640;
+}
+
+.addButton {
+  background: #f37826;
+  color: #ffffff;
+}
+
+.disabledButton {
+  background: rgba(255, 255, 255, 0.75);
+  color: #2b1640;
+  opacity: 0.75;
+  cursor: not-allowed;
+}

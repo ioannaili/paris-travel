@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Καφές στο Café de Flore",
+    "description": "Ιστορικό καφέ στο Saint-Germain με παριζιάνικη ατμόσφαιρα και πολύ καλό people watching.",
+    "area": "Saint-Germain",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Cafe+de+Flore+Paris",
+    "notes": "Ιδανικό πρώτο stop πριν από βόλτα στην περιοχή."
+  },
+  {
+    "name": "Καφές στο Les Deux Magots",
+    "description": "Κλασικό καφέ-σήμα κατατεθέν της αριστερής όχθης, ιδανικό για πρωινό καφέ.",
+    "area": "Saint-Germain",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Les+Deux+Magots+Paris",
+    "notes": "Ταιριάζει με χαλαρό πρωινό πρόγραμμα."
+  },
+  {
+    "name": "Καφές στο KB Coffee Roasters",
+    "description": "Specialty coffee spot στο South Pigalle με σταθερά καλό καφέ.",
+    "area": "Pigalle",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=KB+Coffee+Roasters+Paris",
+    "notes": "Καλό διάλειμμα πριν από περίπατο στη Montmartre."
+  },
+  {
+    "name": "Καφές στο Café Kitsuné Palais Royal",
+    "description": "Μικρό και φωτογενές καφέ δίπλα στους κήπους του Palais Royal.",
+    "area": "Louvre",
+    "type": "Cafe",
+    "durationText": "30m",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Cafe+Kitsune+Palais+Royal+Paris",
+    "notes": "Συνδυάζεται εύκολα με Louvre και βόλτα στα arcades."
+  },
+  {
+    "name": "Καφές στο Fragments",
+    "description": "Δημοφιλές specialty καφέ στο Marais με ποιοτικό καφέ και brunch feeling.",
+    "area": "Marais",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Fragments+Paris",
+    "notes": "Προτιμήστε νωρίς για λιγότερη αναμονή."
+  },
+  {
+    "name": "Καφές στο Ten Belles",
+    "description": "Cozy καφέ κοντά στο Canal Saint-Martin, ιδανικό για ήρεμο ξεκίνημα ημέρας.",
+    "area": "Canal Saint-Martin",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Ten+Belles+Paris",
+    "notes": "Βολεύει για περπάτημα κατά μήκος του καναλιού."
+  },
+  {
+    "name": "Καφές στο Dreamin Man",
+    "description": "Μικρό specialty spot με σταθερά καλές εκχυλίσεις και laid-back vibe.",
+    "area": "Canal Saint-Martin",
+    "type": "Cafe",
+    "durationText": "30m",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Dreamin+Man+Paris",
+    "notes": "Σύντομο stop ανάμεσα σε activities της ίδιας περιοχής."
+  },
+  {
+    "name": "Καφές στο Coutume Café",
+    "description": "Γνωστό parisian specialty καφέ με άνετο χώρο για χαλαρό πρωινό.",
+    "area": "Saint-Germain",
+    "type": "Cafe",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Coutume+Cafe+Paris",
+    "notes": "Καλή επιλογή για group 5 ατόμων."
+  },
+  {
+    "name": "Δείπνο στο Bouillon Chartier",
+    "description": "Κλασικό παριζιάνικο bouillon με παραδοσιακά πιάτα και προσιτές τιμές.",
+    "area": "Opera",
+    "type": "Restaurant",
+    "durationText": "2h",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Bouillon+Chartier+Paris",
+    "notes": "Γρήγορη εξυπηρέτηση, ιδανικό για γεμάτη μέρα."
+  },
+  {
+    "name": "Δείπνο στο Le Relais de l'Entrecôte",
+    "description": "Διάσημο για steak-frites με fixed menu, σταθερά αξιόπιστη επιλογή.",
+    "area": "Saint-Germain",
+    "type": "Restaurant",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Le+Relais+de+l+Entrecote+Paris",
+    "notes": "Συχνά έχει αναμονή, καλύτερα νωρίς."
+  },
+  {
+    "name": "Δείπνο στο Pink Mamma",
+    "description": "Instagrammable ιταλικό spot στο Pigalle με ζωντανή ατμόσφαιρα.",
+    "area": "Pigalle",
+    "type": "Restaurant",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Pink+Mamma+Paris",
+    "notes": "Πρακτικό αν κινείστε Montmartre-Pigalle."
+  },
+  {
+    "name": "Δείπνο στο Chez Janou",
+    "description": "Cozy μπιστρό στο Marais με γαλλο-προβηγκιακή κουζίνα.",
+    "area": "Marais",
+    "type": "Restaurant",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Chez+Janou+Paris",
+    "notes": "Ταιριάζει μετά από απογευματινό περίπατο στο Marais."
+  },
+  {
+    "name": "Δείπνο στο L'As du Fallafel",
+    "description": "Εμβληματικό street-food spot στο Marais για γρήγορο και χορταστικό γεύμα.",
+    "area": "Marais",
+    "type": "Restaurant",
+    "durationText": "1h",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=L+As+du+Fallafel+Paris",
+    "notes": "Ιδανικό για lunch stop χωρίς χάσιμο χρόνου."
+  },
+  {
+    "name": "Δείπνο στο Septime",
+    "description": "Modern bistro υψηλής ζήτησης κοντά στη Bastille, με προσεγμένη γαστρονομία.",
+    "area": "Bastille",
+    "type": "Restaurant",
+    "durationText": "2h",
+    "price": "€€€",
+    "google_maps_link": "https://maps.google.com/?q=Septime+Paris",
+    "notes": "Απαιτεί συνήθως κράτηση αρκετά νωρίς."
+  },
+  {
+    "name": "Αρτοποιείο Du Pain et des Idées",
+    "description": "Θρυλικό boulangerie με διάσημα escargot pastries και artisan ψωμί.",
+    "area": "Canal Saint-Martin",
+    "type": "Bakery",
+    "durationText": "30m",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Du+Pain+et+des+Idees+Paris",
+    "notes": "Γρήγορο πρωινό πριν τη βόλτα στο κανάλι."
+  },
+  {
+    "name": "Αρτοποιείο Poilâne",
+    "description": "Ιστορικό αρτοποιείο γνωστό για το παραδοσιακό sourdough ψωμί του.",
+    "area": "Saint-Germain",
+    "type": "Bakery",
+    "durationText": "30m",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Poilane+Paris",
+    "notes": "Σύντομο stop που κολλάει σε πρόγραμμα με καφέ."
+  },
+  {
+    "name": "Αρτοποιείο Mamiche",
+    "description": "Αγαπημένο spot για viennoiserie και αφράτα cinnamon rolls.",
+    "area": "Montmartre",
+    "type": "Bakery",
+    "durationText": "30m",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Mamiche+Paris",
+    "notes": "Ιδανικό πριν από πρωινό περίπατο στη Montmartre."
+  },
+  {
+    "name": "Αρτοποιείο BO&MIE Louvre-Rivoli",
+    "description": "Μοντέρνο bakery με ποικιλία σε κρουασάν, sandwiches και γλυκά.",
+    "area": "Louvre",
+    "type": "Bakery",
+    "durationText": "30m",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=BO+and+MIE+Louvre+Rivoli+Paris",
+    "notes": "Πρακτικό για take-away ανάμεσα σε αξιοθέατα."
+  },
+  {
+    "name": "Αρτοποιείο La Maison d'Isabelle",
+    "description": "Πολύ γνωστό bakery στο Latin Quarter με βραβευμένο βουτυρένιο κρουασάν.",
+    "area": "Latin Quarter",
+    "type": "Bakery",
+    "durationText": "30m",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=La+Maison+d+Isabelle+Paris",
+    "notes": "Ταιριάζει με πρωινή βόλτα στην αριστερή όχθη."
+  },
+  {
+    "name": "Περίπατος στο Montmartre",
+    "description": "Βόλτα στα πλακόστρωτα της Montmartre με καλλιτεχνική ατμόσφαιρα και θέες.",
+    "area": "Montmartre",
+    "type": "Walk",
+    "durationText": "2h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Montmartre+Paris",
+    "notes": "Καλύτερα πρωί για λιγότερο κόσμο."
+  },
+  {
+    "name": "Περίπατος στις όχθες του Σηκουάνα",
+    "description": "Εύκολη διαδρομή από Pont Neuf προς Musée d'Orsay με κλασικές παριζιάνικες εικόνες.",
+    "area": "Louvre",
+    "type": "Walk",
+    "durationText": "2h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Pont+Neuf+to+Musee+d+Orsay+walk",
+    "notes": "Ιδανικό για sunset χωρίς μετακινήσεις με μετρό."
+  },
+  {
+    "name": "Περίπατος στο Le Marais",
+    "description": "Περπάτημα σε ιστορικά στενά, concept stores και μικρές πλατείες.",
+    "area": "Le Marais",
+    "type": "Walk",
+    "durationText": "2h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Le+Marais+Paris",
+    "notes": "Συνδυάζεται εύκολα με φαγητό ή shopping."
+  },
+  {
+    "name": "Περίπατος στο Canal Saint-Martin",
+    "description": "Χαλαρή βόλτα δίπλα στο κανάλι με local vibe και πολλά καφέ.",
+    "area": "Canal Saint-Martin",
+    "type": "Walk",
+    "durationText": "2h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Canal+Saint+Martin+Paris",
+    "notes": "Καλή relaxed επιλογή για απογευματινή ώρα."
+  },
+  {
+    "name": "Περίπατος στο Latin Quarter",
+    "description": "Ζωντανή περιοχή με βιβλιοπωλεία, στενά και όμορφη φοιτητική ενέργεια.",
+    "area": "Latin Quarter",
+    "type": "Walk",
+    "durationText": "2h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Latin+Quarter+Paris",
+    "notes": "Προσφέρεται για συνδυασμό με καφέ και βραδινό."
+  },
+  {
+    "name": "Μουσείο Louvre",
+    "description": "Το πιο εμβληματικό μουσείο της πόλης με τεράστια συλλογή και iconic έργα.",
+    "area": "Louvre",
+    "type": "Museum",
+    "durationText": "3h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Louvre+Museum+Paris",
+    "notes": "Συνιστάται online κράτηση για συγκεκριμένη ώρα."
+  },
+  {
+    "name": "Μουσείο Musée d'Orsay",
+    "description": "Εξαιρετική συλλογή ιμπρεσιονιστών σε εντυπωσιακό ιστορικό κτίριο.",
+    "area": "Saint-Germain",
+    "type": "Museum",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Musee+d+Orsay+Paris",
+    "notes": "Ιδανικό για μισή μέρα μαζί με βόλτα στον Σηκουάνα."
+  },
+  {
+    "name": "Μουσείο Musée de l'Orangerie",
+    "description": "Μικρότερο μουσείο με τους εμβληματικούς Nymphéas του Monet.",
+    "area": "Louvre",
+    "type": "Museum",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Musee+de+l+Orangerie+Paris",
+    "notes": "Καλό για πιο light πολιτιστική στάση."
+  },
+  {
+    "name": "Μουσείο Centre Pompidou",
+    "description": "Μοντέρνα και σύγχρονη τέχνη με ιδιαίτερη αρχιτεκτονική.",
+    "area": "Marais",
+    "type": "Museum",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Centre+Pompidou+Paris",
+    "notes": "Βολικό σε ημέρα με πρόγραμμα στο Marais."
+  },
+  {
+    "name": "Μουσείο Musée Rodin",
+    "description": "Κομψό μουσείο με γλυπτά του Rodin και ήσυχο κήπο.",
+    "area": "Saint-Germain",
+    "type": "Museum",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Musee+Rodin+Paris",
+    "notes": "Πιο ήρεμη επιλογή σε σχέση με τα πολύ μεγάλα μουσεία."
+  },
+  {
+    "name": "Φωτογραφίες στη Rue de l'Université",
+    "description": "Κλασικό photo spot με καθαρή θέα προς τον Πύργο του Άιφελ.",
+    "area": "Eiffel Area",
+    "type": "Photo Spot",
+    "durationText": "30m",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Rue+de+l+Universite+Paris",
+    "notes": "Καλύτερα νωρίς το πρωί για λιγότερο κόσμο."
+  },
+  {
+    "name": "Φωτογραφίες στη Rue Crémieux",
+    "description": "Πολύχρωμος δρόμος γνωστός για aesthetic λήψεις.",
+    "area": "Bastille",
+    "type": "Photo Spot",
+    "durationText": "30m",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Rue+Cremieux+Paris",
+    "notes": "Χρειάζεται σεβασμός στους κατοίκους της γειτονιάς."
+  },
+  {
+    "name": "Φωτογραφίες στη Place des Vosges",
+    "description": "Κομψή πλατεία του Marais με αρμονική αρχιτεκτονική και στοές.",
+    "area": "Marais",
+    "type": "Photo Spot",
+    "durationText": "30m",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Place+des+Vosges+Paris",
+    "notes": "Συνδυάζεται με περίπατο και καφέ στο Marais."
+  },
+  {
+    "name": "Φωτογραφίες στη Galerie Vivienne",
+    "description": "Ιστορική covered arcade με μωσαϊκά και elegant παριζιάνικο στιλ.",
+    "area": "Opera",
+    "type": "Photo Spot",
+    "durationText": "30m",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Galerie+Vivienne+Paris",
+    "notes": "Ιδανική στάση κοντά σε Opera και Palais Royal."
+  },
+  {
+    "name": "Αγορά στο Marché des Enfants Rouges",
+    "description": "Η παλαιότερη στεγασμένη αγορά του Παρισιού με πολλές street-food επιλογές.",
+    "area": "Marais",
+    "type": "Market",
+    "durationText": "1h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Marche+des+Enfants+Rouges+Paris",
+    "notes": "Ταιριάζει για χαλαρό lunch stop."
+  },
+  {
+    "name": "Αγορά στο Marché Bastille",
+    "description": "Μεγάλη υπαίθρια αγορά με φρέσκα προϊόντα και τοπικό χρώμα.",
+    "area": "Bastille",
+    "type": "Market",
+    "durationText": "1h",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Marche+Bastille+Paris",
+    "notes": "Καλή εμπειρία τοπικής καθημερινότητας."
+  },
+  {
+    "name": "Αγορά στο Marché d'Aligre",
+    "description": "Ζωντανή λαϊκή αγορά με food stalls και αυθεντικό neighborhood vibe.",
+    "area": "Bastille",
+    "type": "Market",
+    "durationText": "1h",
+    "price": "€",
+    "google_maps_link": "https://maps.google.com/?q=Marche+d+Aligre+Paris",
+    "notes": "Πιο αυθεντική επιλογή μακριά από υπερτουριστικά spots."
+  },
+  {
+    "name": "Βόλτα στο Jardin du Luxembourg",
+    "description": "Κλασικός παριζιάνικος κήπος για χαλαρή βόλτα και διάλειμμα από το πρόγραμμα.",
+    "area": "Latin Quarter",
+    "type": "Park",
+    "durationText": "1h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Jardin+du+Luxembourg+Paris",
+    "notes": "Ταιριάζει τέλεια για free time block."
+  },
+  {
+    "name": "Βόλτα στο Parc des Buttes-Chaumont",
+    "description": "Μεγάλο πάρκο με σημεία θέας και πιο local αίσθηση.",
+    "area": "Canal Saint-Martin",
+    "type": "Park",
+    "durationText": "1h",
+    "price": "Free",
+    "google_maps_link": "https://maps.google.com/?q=Parc+des+Buttes+Chaumont+Paris",
+    "notes": "Καλή εναλλακτική για πιο χαλαρό απόγευμα."
+  },
+  {
+    "name": "Ποτό στο Little Red Door",
+    "description": "Βραβευμένο cocktail bar στο Marais με δημιουργικά signature cocktails.",
+    "area": "Marais",
+    "type": "Bar",
+    "durationText": "2h",
+    "price": "€€€",
+    "google_maps_link": "https://maps.google.com/?q=Little+Red+Door+Paris",
+    "notes": "Ιδανικό για βραδινό slot μετά το δείπνο."
+  },
+  {
+    "name": "Ποτό στο Le Comptoir Général",
+    "description": "Ιδιαίτερο bar δίπλα στο Canal Saint-Martin με ατμοσφαιρικό χώρο.",
+    "area": "Canal Saint-Martin",
+    "type": "Bar",
+    "durationText": "2h",
+    "price": "€€",
+    "google_maps_link": "https://maps.google.com/?q=Le+Comptoir+General+Paris",
+    "notes": "Ταιριάζει με βραδινή βόλτα στην ίδια περιοχή."
+  }
+]

@@ -1,0 +1,55 @@
+Paris Trip Planner - Components Used
+
+Core Navigation
+- app/components/bottom-nav.tsx
+  Component: BottomNav
+  Purpose: Persistent bottom tab navigation with Activities, Program, Profile.
+
+Activities Flow
+- app/activities/activities-client.tsx
+  Component: ActivitiesClient
+  Purpose: Main activities workspace, voting, discovery trigger, program trigger, floating add action.
+
+- app/activities/components/activity-card.tsx
+  Component: ActivityCard
+  Purpose: Activity card UI with image, metadata tags, vote summary, and external links.
+
+- app/activities/components/vote-buttons.tsx
+  Component: VoteButtons
+  Purpose: YES / MAYBE / NO voting buttons with selected state.
+
+- app/activities/components/add-activity-modal.tsx
+  Component: AddActivityModal
+  Purpose: Add Activity form shown as bottom sheet/modal.
+
+Program Flow
+- app/program/page.tsx
+  Page: ProgramPage
+  Purpose: Server-side data preparation for itinerary.
+
+- app/program/program-client.tsx
+  Component: ProgramClient
+  Purpose: Renders day-by-day trip schedule blocks.
+
+Profile Flow
+- app/profile/page.tsx
+  Page: ProfilePage
+  Purpose: Server-side auth/profile loading.
+
+- app/profile/profile-client.tsx
+  Component: ProfileClient
+  Purpose: User info, free-time preference toggle, logout.
+
+Authentication
+- app/login/page.tsx
+  Page: LoginPage
+  Purpose: Sign-in entry flow.
+
+Auxiliary
+- app/dashboard/page.tsx
+  Page: DashboardPage
+  Purpose: Simple authenticated dashboard shell.
+
+Shared Types
+- app/activities/types.ts
+  Types: Activity, VoteRow, VoteValue, AddActivityForm
